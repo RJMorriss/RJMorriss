@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Robert, I'm currently working on building smaller games and creating mods and rom hacks for larger ones!
 <!--
 **RJMorriss/RJMorriss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
